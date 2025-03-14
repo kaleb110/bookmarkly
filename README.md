@@ -178,5 +178,9 @@ If you have any questions, feel free to reach out:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bookmarkly/diagram&type=Date)](https://star-history.com/#bookmarkly/diagram&Date)
+
 ---
 Start managing your bookmarks with ease! 🚀
